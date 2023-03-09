@@ -1,4 +1,3 @@
-Repository contains quality README file with description, screenshot, and link to deployed application.
 # Project Horiseon
 
 ## What Was Done
@@ -27,4 +26,6 @@ As for the CSS document, I also rearranged the code to follow the "cascading" fo
 ![Project-Horiseon](./assets/images/Horiseon%20Screenshot%202.png)
 ![Project-Horiseon](./assets/images/Horiseon%20Screenshot%203.png)
 
-## Link
+## The Link
+
+https://github.com/Bidoofs-Dad/Project-Horiseon
